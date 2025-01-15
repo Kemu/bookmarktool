@@ -1,0 +1,11 @@
+[
+    {"label": "Open Google", "url": "https://www.google.com"},
+    {"label": "Open YouTube", "url": "https://www.youtube.com"},
+    {"label": "Open GitHub", "url": "https://github.com"},
+    {"label": "Open Twitch", "url": "https://www.twitch.tv"},
+    {"label": "Open Prusa", "url": "https://www.prusa3d.com"},
+    {"label": "Open Amazon", "url": "https://www.Amazon.de"},
+    {"label": "Open Patreon", "url": "https://www.patreon.com"},
+    {"label": "Open Heise", "url": "https://www.Heise.de"},
+    {"label": "Open LTT", "url": "https://www.linustechtips.com"}
+]
